@@ -1,0 +1,30 @@
+:root {
+	--track-player-hover-left-bg: rgba(35, 37, 37, 0.4);
+	--button-secondary-c: #f0f2f2;
+	--button-dropdown-br: #232525;
+	--main-bg:#151919;
+	--ub-border-light: #323434;
+	--ub-border-dark: #6f7475;
+	--button-secondary-hover-bg: #232525;
+	--button-primary-br: #323434;
+	--button-primary-bg: #151919;
+	--button-primary-hover-bg: #232525;
+}
+
+.relative {
+	position: relative;
+}
+
+.space-12 {
+	width: 12px;
+	heighT: 12px;
+}
+.space-6 {
+	width: 6px;
+	height: 6px;
+}
+.space-24 {
+	width: 24px;
+	height: 24px;
+}
+
